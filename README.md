@@ -10,7 +10,7 @@ Selanjutnya install python2 dengan perintah :
 pkg install python2
 
 Klon script login termux nya dengan perintah :
-git clone git clone https://github.com/Harisgitama/termux-loginv2fx.git
+git clone git clone https://github.com/khilhim27/termux-loginv2fx.git
 
 Setelah itu pergilah ke folder termux-loginv2fx dengan perintah :
 cd termux-loginv2fx
